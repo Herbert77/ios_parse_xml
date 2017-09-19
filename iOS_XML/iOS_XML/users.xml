@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AllUsers>
+    <message>用户信息</message>
+    <user>
+        <name>金正元</name>
+        <age>10</age>
+        <school>JiangSu University</school>
+    </user>
+    <user>
+        <name>巴格</name>
+        <age>22</age>
+        <school>NanJing University</school>
+    </user>
+    <user>
+        <name>霍尔斯</name>
+        <age>23</age>
+        <school>HongKong University</school>
+    </user>
+</AllUsers>
